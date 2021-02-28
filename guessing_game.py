@@ -1,7 +1,6 @@
 import random
 
 random_number = random.randint(1,10)
-guess = None
 
 while True:
     guess = input("Choose a Number between 1 and 10 \n")
