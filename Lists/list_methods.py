@@ -62,3 +62,8 @@ colors.sort()
 
 colors[0::1]
 
+# Swapping values
+
+names = ["James","Lily"]
+
+names[0] , names[1] = names[1] , names[0]
