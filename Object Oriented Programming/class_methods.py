@@ -1,3 +1,5 @@
+# Instance methods are specific to each instances where as @classmethod is specific to the class itself.
+
 class BankAccount:
 
     active_users = 0
